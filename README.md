@@ -14,5 +14,6 @@ To add new branch follow these steps:
 
 1) Check branches by doing "git branch" in command line
 2) Add new branch by doing "git checkout -b "Name of branch" " in command line
-3) Should automatically switch into that branch but if not then you can switch to a branch by typing in the command line "git checkout ____" with the branch name in the space.
+3) Should automatically switch into that branch but if not then you can switch to a branch by typing in the command line "git checkout ____" with the branch name in the space
+4) To delete a branch do "git branch -d ____" with the branch name in the space
 
