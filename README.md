@@ -18,4 +18,3 @@ To add new branch follow these steps:
 4) To delete a branch do "git branch -d ____" with the branch name in the space
 
 There can sometimes be conflicts, see video for description on that. Basically if you try to merge a branch with the main branch with code that has been edited on the same lines in the main branch and new branch, there is a conflict. 
-
